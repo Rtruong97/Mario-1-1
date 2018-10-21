@@ -60,6 +60,11 @@ public class PlayerController : MonoBehaviour {
 
             jumpSound.Play();
         }
+
+        {
+            if (Input.GetKey("escape"))
+                Application.Quit();
+        }
     }
     
     
@@ -127,4 +132,6 @@ public class PlayerController : MonoBehaviour {
             }
         }
     }
+
+
 }
