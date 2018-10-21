@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - feet
+  - Sky
+  - Pipe
+  - Steps
+  - Background
+  - Pole
+  - Castle
+  - Blocks
+  - Coin
+  - Goomba
+  - Collect
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 2264286123
+    locked: 0
+  - name: Ground
+    uniqueID: 1017330417
+    locked: 0
+  - name: These Eyes
+    uniqueID: 1836866265
+    locked: 0
+  - name: Steps
+    uniqueID: 3161082501
+    locked: 0
+  - name: Background
+    uniqueID: 395315087
+    locked: 0
+  - name: Pole
+    uniqueID: 396926781
+    locked: 0
+  - name: Castle
+    uniqueID: 1089190841
+    locked: 0
+  - name: Blocks
+    uniqueID: 2161381089
+    locked: 0
+  - name: Pipe
+    uniqueID: 1477324011
+    locked: 0
+  - name: Coins
+    uniqueID: 3094218295
+    locked: 0
+  - name: Goomba
+    uniqueID: 2483406341
+    locked: 0
+  - name: Player
+    uniqueID: 4204108681
+    locked: 0
